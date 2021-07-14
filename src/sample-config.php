@@ -13,7 +13,7 @@ $host = "https://localhost";
 
 $cardSets = [
     // 1, 3, 5, 8
-    ['1', '2', '3', '5', '8'],
+    ['1', '2', '3', '4', '5', '6', '7', '8'],
     // Standard fibonaci like series of values
     ['1', '2', '3', '5', '8', '13', '20', '40', '100'],
     // Special card set with '?' for unclear stories
